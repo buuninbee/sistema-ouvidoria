@@ -17,7 +17,7 @@ digital (WCAG).</h4>
 -[link do video da demostração](https://youtu.be/S-lHOcUZUw0)
 
 ## Link do arquivo no Figma
--[Arquivo do sitema PWA Ouvidoria](https://www.figma.com/design/ffX6xhQk63OiEacdQByw8S/Sis-Ouvidoria?node-id=18-18&t=4kVpJLhgAYgn1u5N-1)
+-[Arquivo do sistema PWA Ouvidoria](https://www.figma.com/design/ffX6xhQk63OiEacdQByw8S/Sis-Ouvidoria?node-id=18-18&t=4kVpJLhgAYgn1u5N-1)
 
 ## Tecnologia usadas
 
