@@ -12,8 +12,12 @@ formatos, como texto e áudio, com possibilidade de anexar imagem e vídeo, alé
 anonimato opcional, emissão de protocolo e conformidade com as diretrizes de acessibilidade
 digital (WCAG).</h4>
 
-##vídeo de demonstração da solução proposta 
+## vídeo de demonstração da solução proposta 
+
 -[link do video da demostração](https://youtu.be/S-lHOcUZUw0)
+
+## Link do arquivo no Figma
+-[Arquivo do sitema PWA Ouvidoria](https://www.figma.com/design/ffX6xhQk63OiEacdQByw8S/Sis-Ouvidoria?node-id=18-18&t=4kVpJLhgAYgn1u5N-1)
 
 ## Tecnologia usadas
 
