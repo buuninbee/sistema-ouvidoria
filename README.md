@@ -1,16 +1,34 @@
-# React + Vite
+<h1 align="center">
+  <br>
+  <a href=""><img src="./src/assets/logo-ouv.svg" alt="logo do ouvidoria GDF" width="250"></a>
+  <br>
+  <br>
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h4 align="center">Desenvolvimento de um PWA do
+Sistema Participa DF, que amplie o acesso e a inclusão dos cidadãos na abertura de manifestações.
+A solução deverá contemplar recursos de acessibilidade e permitir o envio de relatos em múltiplos
+formatos, como texto e áudio, com possibilidade de anexar imagem e vídeo, além de assegurar
+anonimato opcional, emissão de protocolo e conformidade com as diretrizes de acessibilidade
+digital (WCAG).</h4>
 
-Currently, two official plugins are available:
+## Tecnologia usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/) 
+- [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Pnpm](https://pnpm.io/)
+- [Shadcn](https://ui.shadcn.com/)
+- [Figma](https://www.figma.com/pt-br/)
+- [Lucide](https://lucide.dev/-)
 
-## React Compiler
+## Setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone o projeto e instale as dependências
+```bash
+pnpm install
+```
+2. Start o projeto dando o comando
+```bash
+pnpm dev
+```
