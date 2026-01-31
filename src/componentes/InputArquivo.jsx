@@ -2,7 +2,7 @@ import { ImageUp } from "lucide-react";
 import { HandPlatter } from "lucide-react";
 import { useState } from "react"
 
-function InputImagem() {
+function InputArquivo() {
   const [preview, setPreview] = useState(null);
 
   function handleImage(e) {
@@ -82,4 +82,4 @@ function InputImagem() {
   )
 }
 
-export default InputImagem;
+export default InputArquivo;

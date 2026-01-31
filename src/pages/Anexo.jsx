@@ -1,8 +1,7 @@
 import logoOuv from "@/assets/logo-ouv.svg"
 import { NavLink } from "react-router"
-import { Info } from "lucide-react"
 import { Paperclip } from "lucide-react"
-import InputImagem from "@/componentes/InputImagem"
+import InputArquivo from "@/componentes/InputArquivo"
 
 const Anexo = () => {
   return (
@@ -63,7 +62,7 @@ const Anexo = () => {
       </div>
 
       <div className="pb-6">
-        <InputImagem/>
+        <InputArquivo/>
       </div>
 
       <div className="grid gap-1 pb-6 text-[#012247]">
